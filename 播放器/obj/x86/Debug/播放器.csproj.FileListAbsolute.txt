@@ -1,0 +1,15 @@
+E:\Projects\播放器\播放器\bin\Debug\播放器.exe
+E:\Projects\播放器\播放器\bin\Debug\播放器.pdb
+E:\Projects\播放器\播放器\bin\Debug\Interop.WMPLib.dll
+E:\Projects\播放器\播放器\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\播放器\播放器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\播放器\播放器\obj\x86\Debug\Interop.WMPLib.dll
+E:\Projects\播放器\播放器\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.csproj.ResolveComReference.cache
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.Form1.resources
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.Properties.Resources.resources
+E:\Projects\播放器\播放器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\播放器\播放器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.exe
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.pdb
+E:\Projects\播放器\播放器\obj\x86\Debug\播放器.confirmDel.resources
